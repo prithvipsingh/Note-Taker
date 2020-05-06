@@ -1,18 +1,18 @@
-Week 11 Express Homework - Note Taker
+## Week 11 Express Homework - Note Taker
 
 The note taker is an application which enables users to write, save and delete notes.
 
-Deployed app: https://jennyunchan-notetaker.herokuapp.com/
-(works on localhost:3000 when connected via node but doesn't seem to work when deployed on heroku)
+ ### Deployed app link:
 
 
-Homework criteria:
+
+## Homework criteria:
 
 * The following HTML routes should be created:
 
-  * GET `/notes` - Should return the `notes.html` file.
+* GET `/notes` - Should return the `notes.html` file.
 
-  * GET `*` - Should return the `index.html` file
+* GET `*` - Should return the `index.html` file
 
 * The application should have a `db.json` file on the backend that will be used to store and retrieve notes using the `fs` module.
 
