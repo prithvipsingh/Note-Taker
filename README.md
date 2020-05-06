@@ -3,7 +3,7 @@
 The note taker is an application which enables users to write, save and delete notes.
 
  ### Deployed app link:
-
+ https://whispering-river-62126.herokuapp.com/notes
 
 
 ## Homework criteria:
